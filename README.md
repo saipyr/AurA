@@ -14,7 +14,7 @@
 
 Passionate about open-source AI? [Join our team →](https://careers.aura.com/)
 
-![AurA IDE Demo](./demo.gif)
+
 
 > [!TIP]  
 > **Looking for an [Enterprise Plan](https://docs.aura.com/enterprise)?** – **[Speak with Our Sales Team Today!](mailto:sales@aura.com)**
