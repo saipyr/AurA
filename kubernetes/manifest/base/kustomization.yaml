@@ -1,0 +1,8 @@
+resources:
+  - aura.yaml
+  - ollama-service.yaml
+  - ollama-statefulset.yaml
+  - aura-deployment.yaml
+  - aura-service.yaml
+  - aura-ingress.yaml
+  - aura-pvc.yaml

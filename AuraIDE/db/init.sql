@@ -1,0 +1,2 @@
+-- AurA DB initialization
+-- Add your schema migrations here 
