@@ -14,7 +14,7 @@
 
 Passionate about open-source AI? [Join our team →](https://careers.aura.com/)
 
-![AurA IDE Demo](./demo.gif)
+
 
 > [!TIP]  
 > **Looking for an [Enterprise Plan](https://docs.aura.com/enterprise)?** – **[Speak with Our Sales Team Today!](mailto:sales@aura.com)**
@@ -63,36 +63,7 @@ For more information, be sure to check out our [AurA IDE Documentation](https://
 
 Want to learn more about AurA IDE's features? Check out our [AurA IDE documentation](https://docs.aura.com/features) for a comprehensive overview!
 
-## Sponsors 🙌
 
-#### Emerald
-
-<table>
-  <tr>
-    <td>
-      <a href="https://n8n.io/" target="_blank">
-        <img src="https://docs.aura.com/sponsors/logos/n8n.png" alt="n8n" style="width: 8rem; height: 8rem; border-radius: .75rem;" />
-      </a>
-    </td>
-    <td>
-      <a href="https://n8n.io/">n8n</a> • Does your interface have a backend yet?<br>Try <a href="https://n8n.io/">n8n</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://tailscale.com/blog/self-host-a-local-ai-stack/?utm_source=AurA&utm_medium=paid-ad-placement&utm_campaign=AurA-Docs" target="_blank">
-        <img src="https://docs.aura.com/sponsors/logos/tailscale.png" alt="Tailscale" style="width: 8rem; height: 8rem; border-radius: .75rem;" />
-      </a>
-    </td>
-    <td>
-      <a href="https://tailscale.com/blog/self-host-a-local-ai-stack/?utm_source=AurA&utm_medium=paid-ad-placement&utm_campaign=AurA-Docs">Tailscale</a> • Connect self-hosted AI to any device with Tailscale
-    </td>
-  </tr>
-</table>
-
----
-
-We are incredibly grateful for the generous support of our sponsors. Their contributions help us to maintain and improve our project, ensuring we can continue to deliver quality work to our community. Thank you!
 
 ## How to Install 🚀
 
